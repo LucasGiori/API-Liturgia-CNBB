@@ -39,6 +39,7 @@
   </tr>
   
 </table>
+<br><br><br>
 
 ## :bulb: Imagens de teste realizados no POSTMAN.
 
@@ -49,7 +50,7 @@
         alt="Screenshot da aplicação, método POST" 
         title="Screenshot da aplicação, método POST"
         width="800px"
-        src=".github/POST.png"
+        src="./.github/POST.png"
     >
 </h3>
 
@@ -60,17 +61,17 @@
         alt="Screenshot da aplicação, método GET" 
         title="Screenshot da aplicação, método GET"
         width="800px"
-        src=".github/GET.png"
+        src="./.github/GET.png"
     >
-</h3 align="center">
+</h3>
 <br>
 
 - **Requisições do Método POST o Body da requisição deve ser obrigatório application/json.**
-<h3>
+<h3 align="center">
     <img 
         alt="Screenshot da aplicação, validação" 
         title="Screenshot da aplicação, Validação"
         width="800px"
-        src=".github/VALIDACAO.png"
+        src="./.github/VALIDACAO.png"
     >
 </h3>
