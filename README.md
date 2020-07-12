@@ -2,6 +2,9 @@
 <br>
 <b>API - Liturgia CNBB</b>
 <br>
+<br>
+<br>
+<br>
 
 <span align="center">
 
@@ -39,27 +42,27 @@
 
 ## :bulb: Imagens de teste realizados no POSTMAN.
 
-- **Método GET**
+- **Método POST**
 <br>
 <h3 align="center">
     <img 
         alt="Screenshot da aplicação, método POST" 
         title="Screenshot da aplicação, método POST"
         width="800px"
-        src="./.github/POST METHOD.png"
+        src=".github/POST.png"
     >
 </h3>
 
 - **Método GET**
-<h3>
+<h3 align="center">
 <br>
     <img 
         alt="Screenshot da aplicação, método GET" 
         title="Screenshot da aplicação, método GET"
         width="800px"
-        src="./.github/GET METHOD.png"
+        src=".github/GET.png"
     >
-</h3>
+</h3 align="center">
 <br>
 
 - **Requisições do Método POST o Body da requisição deve ser obrigatório application/json.**
@@ -68,6 +71,6 @@
         alt="Screenshot da aplicação, validação" 
         title="Screenshot da aplicação, Validação"
         width="800px"
-        src="./.github/POST METHOD.png"
+        src=".github/VALIDACAO.png"
     >
 </h3>
