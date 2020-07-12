@@ -51,7 +51,7 @@
         alt="Screenshot da aplicação, método POST" 
         title="Screenshot da aplicação, método POST"
         width="800px"
-        src="./.github/POST.png"
+        src="./.github/POST.PNG"
     >
 </h3>
 
@@ -63,7 +63,7 @@
         alt="Screenshot da aplicação, método GET" 
         title="Screenshot da aplicação, método GET"
         width="800px"
-        src="./.github/GET.png"
+        src="./.github/GET.PNG"
     >
 </h3>
 <br>
@@ -75,6 +75,6 @@
         alt="Screenshot da aplicação, validação" 
         title="Screenshot da aplicação, Validação"
         width="800px"
-        src="./.github/VALIDACAO.png"
+        src="./.github/VALIDACAO.PNG"
     >
 </h3>
