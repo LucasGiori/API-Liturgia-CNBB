@@ -20,11 +20,12 @@
 <br>
 
 ## Bibliotecas Utilizadas
-- [x] **Instalar bibliotecas: pip install -r requirements.txt**
+
 - [x] **Flask**
 - [x] **requests**
 - [x] **urllib3**
 - [x] **beautifulsoup4**
+- *Instalar bibliotecas: pip install -r requirements.txt*
 
 
 
