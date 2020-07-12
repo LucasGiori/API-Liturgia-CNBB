@@ -44,6 +44,7 @@
 ## :bulb: Imagens de teste realizados no POSTMAN.
 
 - **Método POST**
+
 <br>
 <h3 align="center">
     <img 
@@ -55,6 +56,7 @@
 </h3>
 
 - **Método GET**
+
 <h3 align="center">
 <br>
     <img 
@@ -67,6 +69,7 @@
 <br>
 
 - **Requisições do Método POST o Body da requisição deve ser obrigatório application/json.**
+
 <h3 align="center">
     <img 
         alt="Screenshot da aplicação, validação" 
