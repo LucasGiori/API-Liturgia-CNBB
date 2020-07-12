@@ -18,6 +18,18 @@
 
 
 <br>
+
+## Bibliotecas Utilizadas
+- [x] **Instalar bibliotecas: pip install -r requirements.txt**
+- [x] **Flask**
+- [x] **requests**
+- [x] **urllib3**
+- [x] **beautifulsoup4**
+
+
+
+
+<br><br>
 <table style="width:100%">
   <tr>
     <th>Rota</th>
